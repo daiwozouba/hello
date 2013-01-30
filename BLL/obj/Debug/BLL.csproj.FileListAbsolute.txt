@@ -1,0 +1,5 @@
+E:\code\Web4JQ\BLL\bin\Debug\BLL.dll
+E:\code\Web4JQ\BLL\bin\Debug\BLL.pdb
+E:\code\Web4JQ\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\code\Web4JQ\BLL\obj\Debug\BLL.dll
+E:\code\Web4JQ\BLL\obj\Debug\BLL.pdb
